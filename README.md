@@ -2,10 +2,10 @@
 
 🌱 Sobre Mim •ᴥ•
 
-Sou um estudante de Análise e Desenvolvimento no 5º semestre. Tenho experiência em várias linguagens e tecnologias, incluindo PHP, HTML, CSS, Java e SQL. Atualmente, estou me aprofundando no desenvolvimento com Spring Boot.
+Sou um estudante de Análise e Desenvolvimento no 5º semestre, possuo bacharelado em Ciências Contábeis.
 
 🌱 Habilidades •ᴥ•
-- Linguagens: PHP, Java
+- Linguagens: PHP, Java, JS
 - Tecnologias Web: HTML, CSS3
 - Banco de Dados: SQL
 - Frameworks: Spring Boot
@@ -17,6 +17,4 @@ Estou atualmente focada em aprender e aprimorar minhas habilidades em desenvolvi
 
 
 🌱 Vamos Conectar! •ᴥ•
-
-Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou apenas para bater um papo sobre tecnologia. Vamos aprender e crescer juntos!
 
