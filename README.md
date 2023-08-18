@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @HeyNautilus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Olá! Eu sou Helena! ＼(＾▽＾*)
 
-<!---
-HeyNautilus/HeyNautilus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Sobre Mim •ᴥ•
+Sou um estudante de Análise e Desenvolvimento no 5º semestre. Tenho experiência em várias linguagens e tecnologias, incluindo PHP, HTML, CSS, Java e SQL. Atualmente, estou me aprofundando no desenvolvimento com Spring Boot.
+
+# Habilidades •ᴥ•
+- Linguagens: PHP, Java
+- Tecnologias Web: HTML, CSS3
+- Banco de Dados: SQL
+- Frameworks: Spring Boot
+
+
+# Atualmente Estudando •ᴥ•
+Estou atualmente focado em aprender e aprimorar minhas habilidades em desenvolvimento com Spring Boot.
+
+
+# Vamos Conectar! •ᴥ•
+Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou apenas para bater um papo sobre tecnologia. Vamos aprender e crescer juntos!
+
