@@ -13,7 +13,7 @@ Sou um estudante de Análise e Desenvolvimento no 5º semestre. Tenho experiênc
 
 🌱 Atualmente Estudando •ᴥ•
 
-Estou atualmente focado em aprender e aprimorar minhas habilidades em desenvolvimento com Spring Boot.
+Estou atualmente focada em aprender e aprimorar minhas habilidades em desenvolvimento com Spring Boot e Android Studio.
 
 
 🌱 Vamos Conectar! •ᴥ•
